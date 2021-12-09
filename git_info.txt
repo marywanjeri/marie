@@ -1,5 +1,9 @@
 git init
 git remote add origin https://github.com/marywanjeri/marie.git
 git add .
+git config --global user.email "maryshiks53@gmail.com"
 git commit -m "reply"
-git push -u origin main
+git push origin main
+
+
+
